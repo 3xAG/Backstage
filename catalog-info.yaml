@@ -4,6 +4,11 @@ metadata:
   name: A1
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
+  tags: 
+    - ValueStrea
+    - Red
+    - .NET
+    - Public   
   links:
     - title: A1
       url: http://ai.io
@@ -23,3 +28,4 @@ spec:
   type: website
   owner: CNCF
   lifecycle: experimental
+  system: public-websites
