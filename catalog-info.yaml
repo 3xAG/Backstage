@@ -21,5 +21,5 @@ metadata:
     dependencytrack/project-id: 49f56779-6119-4f9f-85e2-e15bba4c730b
 spec:
   type: website
-  owner: Amer
+  owner: CNCF
   lifecycle: experimental
