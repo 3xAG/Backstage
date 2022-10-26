@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: Component
 metadata:
   name: A1
   description: |
@@ -20,6 +20,6 @@ metadata:
     backstage.io/adr-location: docs/adrs
     dependencytrack/project-id: 49f56779-6119-4f9f-85e2-e15bba4c730b
 spec:
-  type: grpc
+  type: website
   owner: Amer
   lifecycle: experimental
