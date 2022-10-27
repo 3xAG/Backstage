@@ -5,7 +5,9 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   tags: 
-    - java   
+    - dotnet6
+    - red
+    - public
   links:
     - title: A1
       url: http://ai.io
